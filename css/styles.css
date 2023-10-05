@@ -269,7 +269,7 @@ img {
 }
 
 .team-id {
-  padding-top: 32px;
+    padding-top: 32px;
   padding-bottom: 32px;
 }
 
@@ -291,6 +291,26 @@ img {
   letter-spacing: 0.02em;
   text-align: center;
 }
+
+.job-soc {
+  width: 232px;
+  display: flex;
+  gap: 24px;
+}
+
+
+
+/* .team-list-soc {
+  display: flex;
+  /* flex-wrap: wrap; */
+  width: 232px;
+  justify-content: center;
+  text-align: center;
+  gap: 24px;
+} */
+
+
+
 
 /* ============ */
 
