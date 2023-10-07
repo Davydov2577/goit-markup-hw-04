@@ -77,6 +77,21 @@ img {
   gap: 40px;
 }
 
+.line {
+  position: relative;
+}
+
+.line::after {
+  content: "";
+  width: 48px;
+  height: 4px;
+  left: 0;
+  bottom: -1px;
+  border-radius: 2px;
+  background: #404BBF;
+  position: absolute;
+}
+
 .header-menu-item {}
 
 .header-menu-link {
@@ -387,11 +402,6 @@ img {
 .portfolio-item:hover .portfolio-cover-block {
   transform: translateY(0);
 }
-
-
-
-
-
 
 .portfolio-cover-text {
   color: #F4F4FD;
