@@ -414,6 +414,13 @@ img {
   padding-bottom: 100px;
 }
 
+.container-footer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 120px;
+}
+
+
 .footer-logo {
   color: #4d5ae5;
   font-family: "Raleway", sans-serif;
@@ -439,5 +446,16 @@ img {
   letter-spacing: 0.02em;
   max-width: 264px;
 }
+
+
+.footer-list-soc {
+  display: flex;
+  gap: 16px;
+  margin-top: 16px;
+}
+
+
+
+
 
 /* ============ */
