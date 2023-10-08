@@ -85,6 +85,7 @@ img {
 
 .current::after {
   position: absolute;
+  display: block;
   content: "";
   width: 48px;
   height: 4px;
