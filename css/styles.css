@@ -91,7 +91,7 @@ img {
   left: 0;
   bottom: -1px;
   border-radius: 2px;
-  background: #404BBF;
+  background-color: #404BBF;
 }
 
 .header-menu-item {}
@@ -148,9 +148,7 @@ img {
 
 /* ===HERO===  */
 
-.container-hero {
-  /* background: #2e2f42; */
-}
+.container-hero {}
 
 .hero {
   background-color: #2e2f42;
@@ -246,10 +244,6 @@ img {
   margin-bottom: 8px;
 }
 
-
-
-
-
 .value-list {
   display: flex;
   align-items: center;
@@ -341,7 +335,6 @@ img {
   margin-bottom: 8px;
 }
 
-
 .team-list-soc {
   display: flex;
   justify-content: center;
@@ -352,7 +345,6 @@ img {
   width: 40px;
   height: 40px;
 }
-
 
 .team-link-soc {
   display: flex;
@@ -373,10 +365,6 @@ img {
 .team-soc-icon {
   fill: #f4f4fd;
 }
-
-
-
-
 
 /* ============ */
 
@@ -431,7 +419,6 @@ img {
   top: 0;
   left: 0;
   display: flex;
-  /* align-items: center; */
   padding: 40px 32px;
   height: 100%;
   background: #4D5AE5;
@@ -484,7 +471,7 @@ img {
   /* gap: 120px; */
 }
 
-.footer-cont-logo {
+.footer-cntnr-logo {
   margin-right: 120px;
 }
 
